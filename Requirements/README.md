@@ -11,3 +11,13 @@ control air condition is found as the problem to serve a lot of people at a time
 of people are present such as meeting rooms, hall rooms, buses, airplanes, and so on. therefore there must be a role to play in confirming comfort temperature for humans with the 
 help of smart AC. However, researchers are more focusing on automation in AC to avoid the disturbance for manual control.The main objective of the project is to provide automation 
 in air conditioning.
+# FEATURES 
+* Remote control with night light function
+* Adjustable fan speeds
+* Heat and cool function with heat pump technology
+* Air improvement system with particle filter
+* Dehumidify
+* Energy A rating
+* Out of the box operation - plug and play
+* No water tank to empty
+* Portable - On easy-glide casters 
