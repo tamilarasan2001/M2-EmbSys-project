@@ -1,3 +1,3 @@
 # REQUIREMENTS
 # INTRODUCTION
-    * Project     
+* Project     
