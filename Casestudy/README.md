@@ -9,8 +9,14 @@ LDR sends equivalent signal of their respective resistance value to the Microcon
 
 # ACTUTORS(MOTORS)
 * One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the former will move with rotation of the axle of latter one. The axle of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
-#MOTOR DRIVER
+# MOTOR DRIVER
  Motor driver is used to drive motors(Actutors)
+ # SOLAR CHARGE FLOW CONTROLLER
+ The most fundamental sun oriented charge controller just:
+•Monitors the battery voltage
+•Opens the circuit •Stopping the charging, when the battery voltage ascends to a certain Level.
+•Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries through the sunlight based boards, depleting the batteries.
+More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 # ABSTRACT
 The utilization of non-renewable energy sources and the ozone depleting substances emanation is a developing worry of the universal group. Thus, the innovative work of elective sources are constraining down the expenses related with sustainable power sources.
 # COSTRUCTION
