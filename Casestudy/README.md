@@ -12,7 +12,7 @@ LDR sends equivalent signal of their respective resistance value to the Microcon
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
  # SOLAR CHARGE FLOW CONTROLLER
- The most fundamental sun oriented charge controller just:
+ * The most fundamental sun oriented charge controller just:
 •Monitors the battery voltage
 •Opens the circuit •Stopping the charging, when the battery voltage ascends to a certain Level.
 •Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries through the sunlight based boards, depleting the batteries.
