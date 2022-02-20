@@ -30,7 +30,7 @@ Two light dependent resistors are arranged on the edges of the solar panel. Ligh
 # COMPONENTS REQUIRED
 * ATmega328 micro controller,
 * Solar panel, 
-* Light Dependent resistors 
+* Light Dependent resistors,
 * Servo Motor.
 
 # FEATURES
