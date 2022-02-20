@@ -1,5 +1,6 @@
 # CASE STUDY 1 : AUTOMATED SOLAR TRACKER SYSTEM
-![SOLAR TRACKER ](https://user-images.githubusercontent.com/98837668/154837128-5da70435-09e9-4000-84c4-903b5941984b.png)
+![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154839097-2ee220c3-1719-422f-b50a-8f007e4baa85.png)
+
 # SENSOR
 * LDR sensor sense the light and sends flag to microcontroller.
 Light Dependent Resistors (LDRs) which are placed on a common plate with solar panel. Light from a source strikes on them by different amounts. Due to their inherent property of decreasing resistance with increasing incident light intensity, i.e. photoconductivity, the value of resistances of all the LDRs is not always same.
