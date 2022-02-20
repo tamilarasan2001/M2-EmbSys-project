@@ -7,7 +7,7 @@ Two light dependent resistors are arranged on the edges of the solar panel.
 Light dependent resistors produce low resistance when light falls on them. The servo motor connected 
 to the panel rotates the panel in the direction of Sun. Panel is arranged in such a way that light on two LDRs is compared and panel is rotated towards LDR which have high 
 intensity i.e. low resistance compared to other. 
-Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves 
+Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
 towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, Sun is ahead and intensity of light on both the panels is same. 
 In such cases, panel is constant and there is no rotation.
 # SENSOR
@@ -31,8 +31,8 @@ with a AC-to-DC adapter or battery to get started.
  * Motor driver is used to drive motors(Actutors)
  # SOLAR CHARGE FLOW CONTROLLER
  * The most fundamental sun oriented charge controller just:
-•Monitors the battery voltage
-•Opens the circuit •Stopping the charging, when the battery voltage ascends to a certain Level.
+* Monitors the battery voltage
+* Opens the circuit •Stopping the charging, when the battery voltage ascends to a certain Level.
 •Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
