@@ -1,6 +1,5 @@
 # CASE STUDY 1 : AUTOMATED SOLAR TRACKER SYSTEM
 ![blockdiagram](https://user-images.githubusercontent.com/98837668/154840545-5d299314-7c49-4bef-b6a6-116d3c1ac113.png)
-![blockdiagram](https://user-images.githubusercontent.com/98837668/154840569-ec1b742c-04da-4224-88f2-1d11bd06364e.png)
 
 # SENSOR
 * LDR sensor sense the light and sends flag to microcontroller.
