@@ -28,9 +28,7 @@ with a AC-to-DC adapter or battery to get started.
 •Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
-# ABSTRACT
-* The utilization of non-renewable energy sources and the ozone depleting substances emanation is a developing worry of the universal group. Thus, the innovative work of 
-* elective sources are constraining down the expenses related with sustainable power sources.
+
 # COSTRUCTION
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.
 Two light dependent resistors are arranged on the edges of the solar panel. Light dependent resistors produce low resistance when light falls on them. The servo motor connected 
