@@ -1,6 +1,7 @@
 # CASE STUDY 1 
 # AUTOMATED SOLAR TRACKER SYSTEM
-![blockdiagram](https://user-images.githubusercontent.com/98837668/154840569-ec1b742c-04da-4224-88f2-1d11bd06364e.png)
+![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
+
 # COSTRUCTION
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.
 Two light dependent resistors are arranged on the edges of the solar panel.
