@@ -31,7 +31,7 @@ with a AC-to-DC adapter or battery to get started.
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
 # SOLAR CHARGE FLOW CONTROLLER
-* The most fundamental sun oriented charge controller just:
+The most fundamental sun oriented charge controller just:
 * Monitors the battery voltage
 * Opens the circuit 
 * Stopping the charging, when the battery voltage ascends to a certain Level.
