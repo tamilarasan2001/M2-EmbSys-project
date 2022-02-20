@@ -48,5 +48,5 @@ such cases, panel is constant and there is no rotation.
 *  can be used in home to power the appliances using solar power.
 * These can be used in industries as more energy can be saved by rotating the panel.
 # Limitations of Sun Tracking Solar Panel Circuit
-* Though this system is more useful it has low effects in rainy season.
+* Though this system is more useful it has low efficiency in rainy season.
 * they are required to change from time to time.They are expensive.
