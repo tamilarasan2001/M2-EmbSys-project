@@ -3,8 +3,8 @@
 
 # SENSOR
 * LDR sensor sense the light and sends flag to microcontroller.
-Light Dependent Resistors (LDRs) which are placed on a common plate with solar panel. Light from a source strikes on them by different amounts. Due to their inherent property of decreasing resistance with increasing incident light intensity, i.e. photoconductivity, the value of resistances of all the LDRs is not always same.
-LDR sends equivalent signal of their respective resistance value to the Microcontroller which is configured by required programming logic. The values are compared with each other by considering a particular LDR value as reference.
+Light Dependent Resistors (LDRs) which are placed on a common plate with solar panel.
+* LDR sends equivalent signal of their respective resistance value to the Microcontroller which is configured by required programming logic. The values are compared with each other by considering a particular LDR value as reference.
 # SOLAR CELL 
 * A photovoltaic cell, regularly known as a sun based cell, is the innovation utilized for transformation of sun oriented specifically into electrical power. The photovoltaic cell is a non mechanical gadget made of silicon amalgam.
 # MICRO CONTROLLER
