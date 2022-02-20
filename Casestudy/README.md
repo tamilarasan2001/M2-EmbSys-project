@@ -11,7 +11,7 @@ other by considering a particular LDR value as reference.
 # MICRO CONTROLLER
 * The microcontroller sends appropriate signals to the servo motors based on the input signals received from the LDRs. One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
-The Arduino Uno is a microcontroller board based on the ATmega328. Arduino is an open-source, prototyping platform and its simplicity makes it ideal for hobbyists to use as 
+* The Arduino Uno is a microcontroller board based on the ATmega328. Arduino is an open-source, prototyping platform and its simplicity makes it ideal for hobbyists to use as 
 well as professionals. The Arduino Uno has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, 
 a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it 
 with a AC-to-DC adapter or battery to get started.
