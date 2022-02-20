@@ -29,11 +29,12 @@ with a AC-to-DC adapter or battery to get started.
 * of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
- # SOLAR CHARGE FLOW CONTROLLER
- * The most fundamental sun oriented charge controller just:
+# SOLAR CHARGE FLOW CONTROLLER
+* The most fundamental sun oriented charge controller just:
 * Monitors the battery voltage
-* Opens the circuit •Stopping the charging, when the battery voltage ascends to a certain Level.
-•Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
+* Opens the circuit 
+* Stopping the charging, when the battery voltage ascends to a certain Level.
+* Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 
