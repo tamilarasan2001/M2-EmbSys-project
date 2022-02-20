@@ -1,4 +1,5 @@
-# CASE STUDY 1 : AUTOMATED SOLAR TRACKER SYSTEM
+# CASE STUDY 1 
+# AUTOMATED SOLAR TRACKER SYSTEM
 ![blockdiagram](https://user-images.githubusercontent.com/98837668/154840569-ec1b742c-04da-4224-88f2-1d11bd06364e.png)
 
 # SENSOR
