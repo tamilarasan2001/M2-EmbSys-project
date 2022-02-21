@@ -1,5 +1,5 @@
 # CASE STUDY 1 
-# AUTOMATED SOLAR TRACKER SYSTEM
+# AUTOMATED SOLAR TRACKING SYSTEM
 ![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
 
 # COSTRUCTION
