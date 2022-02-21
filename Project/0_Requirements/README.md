@@ -11,8 +11,6 @@ intensity and  low resistance compared to other.
 Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
 towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, Sun is ahead and intensity of light on both the panels is same. 
 In such cases, panel is constant and there is no rotation.
-# BLOCK DIADRAM
-![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
 
 # COMPONENTS REQUIRED
 * ATmega328 micro controller
@@ -46,6 +44,9 @@ with a AC-to-DC adapter or battery to get started.
 * Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
+# BLOCK DIADRAM
+![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
+
 # SWOT ANALYSIS
 
 
