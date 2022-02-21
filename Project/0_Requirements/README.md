@@ -11,7 +11,6 @@ intensity and  low resistance compared to other.
 Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
 towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, Sun is ahead and intensity of light on both the panels is same. 
 In such cases, panel is constant and there is no rotation.
-
 # COMPONENTS REQUIRED
 * ATmega328 micro controller
 * Solar panel
