@@ -32,7 +32,7 @@ with a AC-to-DC adapter or battery to get started.
 # ACTUTORS(MOTORS)
 * One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the other motir will move with rotation of the axle of latter one. The axle 
  of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
- ![image](https://user-images.githubusercontent.com/98837668/155133716-e3bfdaca-a6d4-4cf1-bf22-37a50721a09e.png)
+ 
 
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
