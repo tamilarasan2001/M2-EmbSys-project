@@ -1,7 +1,13 @@
 # REQUIREMENTS
 # AUTOMATED SOLAR TRACKING SYSTEM
 # INTRODUCTION
+* Solar tracking system which can be used as a power generating method from sunlight. This method of power generation is simple and is taken from natural resource. This needs only
+maximum sunlight to generate power. This project helps for power generation by setting the equipment to get maximum sunlight automatically. This system is tracking for maximum 
+intensity of light. When there is decrease in intensity of light, this system automatically changes its direction to get maximum intensity of light. 
 # RESEARCH
+* Renewable energy sources are the most important sources environmentally friendly, clean, and sustainable and meets additional energy needs .Energy production 
+has been increasing rapidly with the use of renewable energy sources in the world in recent years.Solar energy has an important place among renewable energy sources. 
+
 # SUMMARY
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.
 Two light dependent resistors are arranged on the edges of the solar panel.
