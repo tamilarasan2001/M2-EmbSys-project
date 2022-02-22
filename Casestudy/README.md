@@ -68,5 +68,5 @@ REQUIREMENT MODELLING
 |Test ID| 	Description|
 |---|---|
 |L_01 |	LDR sensor is used to sense the light  |
-|L_02 |	Depending upon the intensity of light  the motor will move slowly towards the position where intensity of light is high|
+|L_02 |	One servo motor is used for tracking along x-axis and the other is for y-axis tracking|
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
