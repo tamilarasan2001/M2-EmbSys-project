@@ -49,3 +49,5 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 # Limitations of Sun Tracking Solar Panel Circuit
 * Though this system is more useful it has low efficiency in rainy season
 * As they are expensive they required to change from time to time
+# REQUIREMENT
+
