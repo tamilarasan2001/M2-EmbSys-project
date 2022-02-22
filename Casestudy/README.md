@@ -47,9 +47,9 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 
 
 # FEATURES
-* :pushpin: can be used to power the traffic lights and streetlights
-* :pushpin: can be used in home to power the appliances using solar power
-* :pushpin: can be used in industries as more energy can be saved by rotating the panel
+:pushpin: can be used to power the traffic lights and streetlights <br />
+:pushpin: can be used in home to power the appliances using solar power <br />
+:pushpin: can be used in industries as more energy can be saved by rotating the panel <br />
 
 # REQUIREMENT MODELLING
 
