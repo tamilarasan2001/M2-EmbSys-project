@@ -3,12 +3,7 @@
 ![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
 
 # COSTRUCTION
-* The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.Two light dependent resistors are arranged on the edges of the solar panel.
-Light dependent resistors produce low resistance when light falls on them. The servo motor connected 
-to the panel rotates the panel in the direction of Sun.Panel is arranged as that light on two LDRs is compared and panel rotated towards LDR which have high 
-intensity and  low resistance compared to other.Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
-towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, intensity of light on both the panels is same. 
-so, panel stops rotation and remains remains constant.
+* The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.Two light dependent resistors are arranged on the edges of the solar panel.LDRs produce low resistance when light falls on them. The servo motor connected to the panel rotates the panel in the direction of Sun.Panel is arranged as that light on two LDRs is compared and panel rotated towards LDR which have high intensity and  low resistance compared to other.Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly movestowards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, intensity of light on both the panels is same and panel stops rotation and remains constant.
 # COMPONENTS REQUIRED
 * ATmega328 micro controller
 * Solar panel
@@ -16,10 +11,9 @@ so, panel stops rotation and remains remains constant.
 * Servo Motor
 # SENSOR
 * LDR sensor sense the light and sends flag to microcontroller.
-Light Dependent Resistors (LDRs) which are placed on a common plate with solar panel. Light from a source strikes on them by different amounts. Due to their inherent property 
+Light Dependent Resistors which are placed on a common plate with solar panel. Light from a source strikes on them by different amounts. Due to their property 
 of decreasing resistance with increasing incident light intensity, i.e. photoconductivity, the value of resistances of all the LDRs is not always same.
-LDR sends equivalent signal of  resistance value to the Microcontroller which is configured by required programming logic. The values are compared with each 
-other by keeping a particular LDR value as reference.
+LDR sends equivalent signal of  resistance value to the Microcontroller. The values are compared with each other by keeping a particular LDR value as reference.
 # MICRO CONTROLLER
 * Based on the input signals received from the LDRs the microcontroller sends  signals to the servo motors . One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
