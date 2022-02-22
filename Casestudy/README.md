@@ -50,12 +50,7 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 * can be used to power the traffic lights and streetlights
 * can be used in home to power the appliances using solar power
 * can be used in industries as more energy can be saved by rotating the panel
-
-# Limitations 
-* Though this system is more useful it has low efficiency in rainy season
-* As they are expensive they required to change from time to time
-
-
+* 
 # REQUIREMENT MODELLING
 
 # Table : High level test plan
@@ -71,3 +66,7 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 |L_01 |	LDR sensor is used to sense the light  |
 |L_02 |	One servo motor is used for tracking along x-axis and the other is for y-axis tracking|
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
+
+# Limitations 
+* Though this system is more useful it has low efficiency in rainy season
+* As they are expensive they required to change from time to time
