@@ -5,10 +5,10 @@
 # COSTRUCTION
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.Two light dependent resistors are arranged on the edges of the solar panel.
 Light dependent resistors produce low resistance when light falls on them. The servo motor connected 
-to the panel rotates the panel in the direction of Sun. Panel is arranged as that light on two LDRs is compared and panel  rotated towards LDR which have high 
+to the panel rotates the panel in the direction of Sun.Panel is arranged as that light on two LDRs is compared and panel rotated towards LDR which have high 
 intensity and  low resistance compared to other.Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
-towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, Sun is ahead and intensity of light on both the panels is same. 
-In such cases, panel is constant and there is no rotation.
+towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, intensity of light on both the panels is same. 
+so, panel stops rotation and remains remains constant.
 # COMPONENTS REQUIRED
 * ATmega328 micro controller
 * Solar panel
