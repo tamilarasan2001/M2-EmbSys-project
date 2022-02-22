@@ -45,7 +45,7 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 # FEATURES
 * can be used to power the traffic lights and streetlights
 * can be used in home to power the appliances using solar power
-* These can be used in industries as more energy can be saved by rotating the panel
+* can be used in industries as more energy can be saved by rotating the panel
 # Limitations of Sun Tracking Solar Panel Circuit
 * Though this system is more useful it has low efficiency in rainy season
 * As they are expensive they required to change from time to time
