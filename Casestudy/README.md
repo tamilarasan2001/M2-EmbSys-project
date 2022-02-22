@@ -32,7 +32,7 @@ with a AC-to-DC adapter or battery to get started.
 # ACTUTORS(MOTORS)
 * One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the other motir will move with rotation of the axle of latter one. The axle 
  of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
- 
+
 
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
@@ -43,6 +43,7 @@ with a AC-to-DC adapter or battery to get started.
 * Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
+![solar tracking system diagram](https://user-images.githubusercontent.com/98837668/155134323-1d0d35ca-6bed-4ec3-aff0-09d910b55921.png)
 
 # FEATURES
 * can be used to power the traffic lights and streetlights
@@ -60,11 +61,11 @@ Table : High level test plan
 |Test ID| 	Description|
 |---|----|
 |H_01|	The sensor senses the intensity of light|
-|H_02|	The servo motor shall turn on if the distance is below the threshold range.|
-|H_03|	The servo motor shall turn off if the person is out of the threshold range.|
-
+|H_02|	The panel moves right if intensity of light is more towards right|
+|H_03|	The panel stops moving when there is no light|
 Table : Low level test plan
 |Test ID| 	Description|
-|L_01 |	LDR sensor is used to sense the light and sends the |
-|L_02 |	Depending upon the distance if the person is within the threshold range the motor will turn on.|
-|L_03 |	If noone is within the range the motor will be in a turned off state.|
+|---|---|
+|L_01 |	LDR sensor is used to sense the light  |
+|L_02 |	Depending upon the intensity of light  the motor will move slowly towards the position where intensity is high|
+|L_03 |	There is no light falls on LDR during night the motors stops rotating |
