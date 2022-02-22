@@ -61,7 +61,7 @@ REQUIREMENT MODELLING
 |Test ID| 	Description|
 |---|----|
 |H_01|	The sensor senses the intensity of light|
-|H_02|	The panel moves right if intensity of light is more towards right|
+|H_02|	The panel moves towards the region where the intensity of light is more|
 |H_03|	The panel stops moving when there is no light|
 
 # Table : Low level test plan
