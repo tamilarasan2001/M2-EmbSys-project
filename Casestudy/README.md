@@ -57,13 +57,14 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 # REQUIREMENT
 REQUIREMENT MODELLING
 
-Table : High level test plan
+# Table : High level test plan
 |Test ID| 	Description|
 |---|----|
 |H_01|	The sensor senses the intensity of light|
 |H_02|	The panel moves right if intensity of light is more towards right|
 |H_03|	The panel stops moving when there is no light|
-Table : Low level test plan
+
+# Table : Low level test plan
 |Test ID| 	Description|
 |---|---|
 |L_01 |	LDR sensor is used to sense the light  |
