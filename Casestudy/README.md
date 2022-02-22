@@ -38,14 +38,10 @@ with a AC-to-DC adapter or battery to get started.
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
 # SOLAR CHARGE FLOW CONTROLLER
-* Monitors the battery voltage
-* Opens the circuit 
-* when the battery voltage ascends to a certain Level it stops charging
-* Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
-through the sunlight based boards, depleting the batteries.
-More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
-
-
+:pushpin: Monitors the battery voltage
+:pushpin: Opens the circuit 
+:pushpin:when the battery voltage ascends to a certain Level it stops charging
+:pushpin: Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries through the sunlight based boards, depleting the batteries.More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 # FEATURES
 :pushpin: can be used to power the traffic lights and streetlights <br />
 :pushpin: can be used in home to power the appliances using solar power <br />
@@ -68,5 +64,5 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
 
 # Limitations 
-* Though this system is more useful it has low efficiency in rainy season
-* As they are expensive they required to change from time to time
+:pushpin: Though this system is more useful it has low efficiency in rainy season
+:pushpin: As they are expensive they required to change from time to time
