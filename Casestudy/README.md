@@ -44,7 +44,7 @@ with a AC-to-DC adapter or battery to get started.
 * Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
-![solar tracking system diagram](https://user-images.githubusercontent.com/98837668/155134323-1d0d35ca-6bed-4ec3-aff0-09d910b55921.png)
+
 
 # FEATURES
 * can be used to power the traffic lights and streetlights
