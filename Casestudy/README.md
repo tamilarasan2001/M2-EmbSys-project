@@ -52,14 +52,14 @@ with a AC-to-DC adapter or battery to get started.
 # Table : High level test plan
 |Test ID| 	Description|
 |---|----|
-|H_01|	The sensor senses the intensity of light|
+|H_01|	The sensor senses the intensity of light |
 |H_02|	The panel moves towards the region where the intensity of light is more|
 |H_03|	The panel stops moving when there is no light|
 
 # Table : Low level test plan
 |Test ID| 	Description|
 |---|---|
-|L_01 |	LDR sensor is used to sense the light  |
+|L_01 |	LDR sensor is used to sense intensity of light|
 |L_02 |	One servo motor is used for tracking along x-axis and the other is for y-axis tracking|
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
 
