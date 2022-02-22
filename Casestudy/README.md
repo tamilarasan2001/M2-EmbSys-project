@@ -24,13 +24,13 @@ well as professionals. The Arduino Uno has 14 digital input/output pins (of whic
 a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it 
 with a AC-to-DC adapter or battery to get started.
 
-# ACTUTORS(MOTORS)
+# ACTUATORS(MOTORS)
 * One dc servo motors is mechanically attached with the driving axle of the another one so that the other motor will move with rotation of the axle of latter one. The axle 
  of the former servo motor is used to drive a solar panel. Two-servo motors are arranged in a way that the solar panel can move along X-axis as well as Y-axis.
 
 
 # MOTOR DRIVER
- * Motor driver is used to drive motors(Actutors)
+ * Motor driver is used to drive motors(Actuators)
 # SOLAR CHARGE FLOW CONTROLLER
 * Monitors the battery voltage
 * Opens the circuit 
