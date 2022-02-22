@@ -64,5 +64,5 @@ with a AC-to-DC adapter or battery to get started.
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
 
 # Limitations 
-:pushpin: Though this system is more useful it has low efficiency in rainy season<br />
-:pushpin: As they are expensive they required to change from time to time<br />
+* Though this system is more useful it has low efficiency in rainy season<br />
+* As they are expensive they required to change from time to time<br />
