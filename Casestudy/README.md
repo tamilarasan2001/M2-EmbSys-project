@@ -31,7 +31,7 @@ a power jack, an ICSP header, and a reset button. It contains everything needed 
 with a AC-to-DC adapter or battery to get started.
 
 # ACTUTORS(MOTORS)
-* One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the other motir will move with rotation of the axle of latter one. The axle 
+* One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the other motor will move with rotation of the axle of latter one. The axle 
  of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
 
 
