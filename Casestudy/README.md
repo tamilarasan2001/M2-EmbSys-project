@@ -30,8 +30,10 @@ a power jack, an ICSP header, and a reset button. It contains everything needed 
 with a AC-to-DC adapter or battery to get started.
 
 # ACTUTORS(MOTORS)
-* One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the former will move with rotation of the axle of latter one. The axle 
-* of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
+* One of the two dc servo motors is mechanically attached with the driving axle of the other one so that the other motir will move with rotation of the axle of latter one. The axle 
+ of the former servo motor is used to drive a solar panel. These two-servo motors are arranged in such a way that the solar panel can move along X-axis as well as Y-axis.
+ ![image](https://user-images.githubusercontent.com/98837668/155133716-e3bfdaca-a6d4-4cf1-bf22-37a50721a09e.png)
+
 # MOTOR DRIVER
  * Motor driver is used to drive motors(Actutors)
 # SOLAR CHARGE FLOW CONTROLLER
@@ -46,8 +48,23 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 * can be used to power the traffic lights and streetlights
 * can be used in home to power the appliances using solar power
 * can be used in industries as more energy can be saved by rotating the panel
-# Limitations of Sun Tracking Solar Panel Circuit
+
+# Limitations 
 * Though this system is more useful it has low efficiency in rainy season
 * As they are expensive they required to change from time to time
-# REQUIREMENT
 
+# REQUIREMENT
+REQUIREMENT MODELLING
+
+Table : High level test plan
+|Test ID| 	Description|
+|---|----|
+|H_01|	The sensor senses the intensity of light|
+|H_02|	The servo motor shall turn on if the distance is below the threshold range.|
+|H_03|	The servo motor shall turn off if the person is out of the threshold range.|
+
+Table : Low level test plan
+|Test ID| 	Description|
+|L_01 |	LDR sensor is used to sense the light and sends the |
+|L_02 |	Depending upon the distance if the person is within the threshold range the motor will turn on.|
+|L_03 |	If noone is within the range the motor will be in a turned off state.|
