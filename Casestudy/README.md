@@ -37,9 +37,9 @@ with a AC-to-DC adapter or battery to get started.
 * when the battery voltage ascends to a certain Level it stops charging
 * Prevent the DC power streams back to sun based board - during  evening, when sun based boards are not producing power, power can really stream in reverse from the batteries through the sunlight based boards, depleting the batteries.More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 # FEATURES
-:pushpin: can be used to power the traffic lights and streetlights <br />
-:pushpin: can be used in home to power the appliances using solar power <br />
-:pushpin: can be used in industries as more energy can be saved by rotating the panel <br />
+* can be used to power the traffic lights and streetlights <br />
+* can be used in home to power the appliances using solar power <br />
+* can be used in industries as more energy can be saved by rotating the panel <br />
 
 # REQUIREMENT MODELLING
 
