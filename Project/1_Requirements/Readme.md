@@ -75,7 +75,7 @@ This is useful for generating solar energy all over the world
 # WHERE
 * There is lot of industries recommonding solar energy all over the world
 # HOW
-* This issue can solved by creating a dual axis solar system where we can sufficient sources of energy
+* This issue can solved by creating a dual axis solar system where we can get sufficient sources of solar energy
 # SWOT ANALYSIS
 # FEATURES
 * Can be used to power the traffic lights and streetlights
