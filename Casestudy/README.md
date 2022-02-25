@@ -1,5 +1,5 @@
 # CASE STUDY 1 
-# AUTOMATED SOLAR TRACKING SYSTEM
+# SOLAR TRACKING SYSTEM
 ![solar tracking system](https://user-images.githubusercontent.com/98837668/155691189-760870d5-e2e5-4502-8362-8500179de898.png)
 
 # COSTRUCTION
