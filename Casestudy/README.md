@@ -1,6 +1,6 @@
 # CASE STUDY 1 
 # AUTOMATED SOLAR TRACKING SYSTEM
-![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
+![solar tracking system](https://user-images.githubusercontent.com/98837668/155691189-760870d5-e2e5-4502-8362-8500179de898.png)
 
 # COSTRUCTION
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.Two light dependent resistors are arranged on the edges of the solar panel.LDRs produce low resistance when light falls on them. The servo motor connected to the panel rotates the panel in the direction of Sun.Panel is arranged as that light on two LDRs is compared and panel rotated towards LDR which have high intensity and  low resistance compared to other.Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly movestowards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, intensity of light on both the panels is same and panel stops rotation and remains constant.
@@ -17,7 +17,7 @@ LDR sends equivalent signal of  resistance value to the Microcontroller. The val
 # MICRO CONTROLLER
 * Based on the input signals received from the LDRs the microcontroller sends  signals to the servo motors . One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
-![solar tracking system](https://user-images.githubusercontent.com/98837668/155691189-760870d5-e2e5-4502-8362-8500179de898.png)
+![arduino_uno](https://user-images.githubusercontent.com/98837668/155691433-a74ffe73-b474-43de-84fb-a7b7bc89f18a.jpg)
 
 
 * The Arduino Uno is a microcontroller board based on the ATmega328. Arduino is an open-source, prototyping platform and its simplicity makes it ideal for hobbyists to use as 
