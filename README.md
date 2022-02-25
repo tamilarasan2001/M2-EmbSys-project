@@ -1,1 +1,1 @@
-# M2-EmbSys-project
+# SOLAR TRACKING SYSTEM
