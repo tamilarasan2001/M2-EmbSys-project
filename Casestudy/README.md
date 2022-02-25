@@ -17,7 +17,8 @@ LDR sends equivalent signal of  resistance value to the Microcontroller. The val
 # MICRO CONTROLLER
 * Based on the input signals received from the LDRs the microcontroller sends  signals to the servo motors . One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
-![arduino_uno](https://user-images.githubusercontent.com/98837668/155139213-97d6a10b-872e-42d7-931b-23f224f6c8ed.jpg)
+![solar tracking system](https://user-images.githubusercontent.com/98837668/155691189-760870d5-e2e5-4502-8362-8500179de898.png)
+
 
 * The Arduino Uno is a microcontroller board based on the ATmega328. Arduino is an open-source, prototyping platform and its simplicity makes it ideal for hobbyists to use as 
 well as professionals. The Arduino Uno has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, 
