@@ -17,6 +17,21 @@ intensity and  low resistance compared to other.
 Servo motor rotates the panel at certain angle.When the intensity of the light falling on right LDR is more, panel slowly moves
 towards right and if intensity on the left LDR is more, panel slowly moves towards left. In the noon time, Sun is ahead and intensity of light on both the panels is same. 
 In such cases, panel is constant and there is no rotation.
+# REQUIREMENT MODELLING
+
+# Table : High level test plan
+|Test ID| 	Description|
+|---|----|
+|H_01|	The sensor senses the intensity of light|
+|H_02|	The panel moves towards the region where the intensity of light is more|
+|H_03|	The panel stops moving when there is no light|
+
+# Table : Low level test plan
+|Test ID| 	Description|
+|---|---|
+|L_01 |	LDR sensor is used to sense the light  |
+|L_02 |	One servo motor is used for tracking along x-axis and the other is for y-axis tracking|
+|L_03 |	There is no light falls on LDR during night the motors stops rotating |
 # COMPONENTS REQUIRED
 * ATmega328 micro controller
 * Solar panel
