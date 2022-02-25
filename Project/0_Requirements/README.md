@@ -50,7 +50,7 @@ with a AC-to-DC adapter or battery to get started.
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 # BLOCK DIAGRAM
-![Block diagram for Solar tracker](https://user-images.githubusercontent.com/98837668/154851858-09042167-69b2-47ac-b3c8-86707f2ae9cb.png)
+![solar tracking system](https://user-images.githubusercontent.com/98837668/155649958-59f65842-9067-4fa1-b866-06850e218a82.png)
 
 # SWOT ANALYSIS
 
