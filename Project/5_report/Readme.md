@@ -1,4 +1,5 @@
-# REPORT # SOLAR TRACKING SYSTEM
+# REPORT
+# SOLAR TRACKING SYSTEM
 # INTRODUCTION
 * Solar tracking system which can be used as a power generating method from sunlight. This method of power generation is simple and is taken from natural resource. This needs only maximum sunlight to generate power. This project helps for power generation by setting the equipment to get maximum sunlight automatically. This system is tracking for maximum intensity of light. When there is decrease in intensity of light, this system automatically changes its direction to get maximum intensity of light. 
 # RESEARCH
