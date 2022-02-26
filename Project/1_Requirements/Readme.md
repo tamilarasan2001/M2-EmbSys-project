@@ -20,7 +20,8 @@ has been increasing rapidly with the use of renewable energy sources in the worl
 |L_01 |	LDR sensor is used to sense the light  |
 |L_02 |	One servo motor is used for tracking along x-axis and the other is for y-axis tracking|
 |L_03 |	There is no light falls on LDR during night the motors stops rotating |
-
+# BLOCK DIAGRAM
+![solar tracking system](https://user-images.githubusercontent.com/98837668/155649958-59f65842-9067-4fa1-b866-06850e218a82.png)
 # DESCRIPTION 
 * The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor and ATmega328 Micro controller.
 Two light dependent resistors are arranged on the edges of the solar panel.
@@ -62,8 +63,10 @@ with a AC-to-DC adapter or battery to get started.
 * Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
-# BLOCK DIAGRAM
-![solar tracking system](https://user-images.githubusercontent.com/98837668/155649958-59f65842-9067-4fa1-b866-06850e218a82.png)
+
+# SWOT Analysis
+![SWOT Analysis](https://user-images.githubusercontent.com/98837668/155834392-03cd3c48-73f8-4326-871a-4c06faa6f6be.png)
+
 # 4W's and 1'H
 # Who
 This is useful for generating solar energy all over the world
@@ -76,7 +79,7 @@ This is useful for generating solar energy all over the world
 * There is lot of industries recommonding solar energy all over the world
 # HOW
 * This issue can solved by creating a dual axis solar system where we can get sufficient sources of solar energy
-# SWOT ANALYSIS
+
 # FEATURES
 * Can be used to power the traffic lights and streetlights
 * Can be used in home to power the home appliances using solar power
