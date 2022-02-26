@@ -8,6 +8,6 @@
 |3_Implementation	|All code and documentation|
 |4_Test_plan and output|	Documents with test plans and procedures|
 # FEATURES
-Can be used to power the traffic lights and streetlights
-Can be used in home to power the home appliances using solar power
-These can be used in industries as more energy can be saved by rotating the panel
+* Can be used to power the traffic lights and streetlights
+* Can be used in home to power the home appliances using solar power
+* These can be used in industries as more energy can be saved by rotating the panel
