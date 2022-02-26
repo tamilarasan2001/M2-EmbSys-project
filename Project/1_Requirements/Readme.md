@@ -65,7 +65,8 @@ through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
 
 # SWOT Analysis
-![image](https://user-images.githubusercontent.com/98837668/155834546-5793c952-242b-402e-aed6-e2a6f8d86bdf.png)
+![image](https://user-images.githubusercontent.com/98837668/155834643-3529a6bb-4557-4e51-8ae9-c89fe0f1c175.png)
+
 
 # 4W's and 1'H
 # Who
