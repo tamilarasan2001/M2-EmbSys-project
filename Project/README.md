@@ -13,7 +13,10 @@
 * These can be used in industries as more energy can be saved by rotating the panel
 # CODIGA BADGES
 [![Codiga Badge](https://api.codiga.io/project/31673/status/svg)](https://www.codiga.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
+[![Codiga Badge](https://api.codiga.io/project/31673/score/svg)](https://www.codiga.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
+
 # CODACY BADGE
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66f01ae6808c48a4a3c81d4efec35612)](https://www.codacy.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
 
 
