@@ -1,7 +1,7 @@
 
 # SOLAR TRACKING SYSTEM
 # INTRODUCTION
-* Solar tracking system which can be used as a power generating method from sunlight. This method of power generation is simple and is taken from natural resource. This needs only maximum sunlight to generate power. This project helps for power generation by setting the equipment to get maximum sunlight automatically. This system is tracking for maximum intensity of light. When there is decrease in intensity of light, this system automatically changes its direction to get maximum intensity of light. 
+* Solar tracking system which can be used as a power generating method from sunlight.This method of power generation is simple and is taken from natural resource.This needs only maximum sunlight to generate power.This project helps for power generation by setting the equipment to get maximum sunlight automatically.This system is tracking for maximum intensity of light.When there is decrease in intensity of light,this system automatically changes its direction to get maximum intensity of light. 
 # RESEARCH
 * Renewable energy sources are the most important sources environmentally friendly, clean, and sustainable and meets additional energy needs .Energy production 
 has been increasing rapidly with the use of renewable energy sources in the world in recent years.Solar energy has an important place among renewable energy sources. 
@@ -64,8 +64,6 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 
 # SWOT Analysis
 ![SWOT Analysis](https://user-images.githubusercontent.com/98837668/155835883-94d8f6f9-edc6-458a-946c-5505fa8d43dc.png)
-
-
 # 4W's and 1'H
 # Who
 This is useful for generating solar energy all over the world
@@ -78,7 +76,6 @@ This is useful for generating solar energy all over the world
 * There is lot of industries recommonding solar energy all over the world
 # HOW
 * This issue can solved by creating a dual axis solar system where we can get sufficient sources of solar energy
-
 # FEATURES
 * Can be used to power the traffic lights and streetlights
 * Can be used in home to power the home appliances using solar power
