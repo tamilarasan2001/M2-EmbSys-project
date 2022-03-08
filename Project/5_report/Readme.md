@@ -86,7 +86,7 @@ This is useful for generating solar energy all over the world
 # Limitations of Sun Tracking Solar Panel Circuit
 * Though this system is more useful it has low efficiency in rainy season
 * As they are expensive they required to change from time to time
-* OUTPUT
+# OUTPUT
 ![pic](https://user-images.githubusercontent.com/98837668/157172804-cdd1ccb3-2ac1-473a-b7ef-eee6fc78cef2.png)
 ![pic1](https://user-images.githubusercontent.com/98837668/157172809-3b276bfa-2632-4ce1-8e88-5bbfab8d34a3.png)
 ![pic2](https://user-images.githubusercontent.com/98837668/157172812-5a61c043-08c0-464b-bef1-aa63daa460df.png)
