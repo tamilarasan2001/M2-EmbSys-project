@@ -62,7 +62,8 @@ with a AC-to-DC adapter or battery to get started.
 * Prevent the DC power streams back to sun based board - during the evening, when sun based boards are not producing power, power can really stream in reverse from the batteries 
 through the sunlight based boards, depleting the batteries.
 More seasoned sun based charge controllers utilized a mechanical hand-off to open or close the circuit, ceasing or beginning force heading off to the batteries
-
+# FLOWCHART
+![flowchart](https://user-images.githubusercontent.com/98837668/157283186-b5205bf9-26d7-4ca9-a776-d8575bd73a21.png)
 # SWOT Analysis
 ![SWOT Analysis](https://user-images.githubusercontent.com/98837668/155834675-daeed8c1-1630-4ce9-a057-a498de7bc1e4.png)
 # 4W's and 1'H
