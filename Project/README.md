@@ -16,3 +16,4 @@ https://api.codiga.io/project/31673/status/svg
 # CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66f01ae6808c48a4a3c81d4efec35612)](https://www.codacy.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
 
+https://api.codiga.io/project/31673/score/svg
