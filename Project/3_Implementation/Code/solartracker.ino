@@ -12,8 +12,8 @@ int servovLimitLow = 10;
 //Assigning LDRs
 int ldrtopleft = 2; //top left LDR
 int ldrtopright = 1; //top right LDR 
-int ldrbottomleft = 3; // bottom left LDR 
-int ldrbottomright = 0; // bottom right LDR 
+int ldrbottomleft = 3; //bottom left LDR 
+int ldrbottomright = 0; //bottom right LDR 
 
  void setup () 
  {
