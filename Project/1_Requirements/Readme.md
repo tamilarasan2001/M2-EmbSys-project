@@ -37,7 +37,7 @@ In such cases, panel is constant and there is no rotation.
 * Light Dependent resistors 
 * Servo Motor
 # SENSOR
- LDR sensor sense the light and sends flag to microcontroller.
+* LDR sensor sense the light and sends flag to microcontroller.
 Light Dependent Resistors (LDRs) which are placed on a common plate with solar panel. Light from a source strikes on them by different amounts. Due to their inherent property 
 of decreasing resistance with increasing incident light intensity, i.e. photoconductivity, the value of resistances of all the LDRs is not always same.
 LDR sends equivalent signal of  resistance value to the Microcontroller which is configured by required programming logic. The values are compared with each 
@@ -46,9 +46,9 @@ other by keeping a particular LDR value as reference.
 * Based on the input signals received from the LDRs the microcontroller sends  signals to the servo motors . One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
 ![arduino_uno](https://user-images.githubusercontent.com/98837668/155003074-f5221b39-b07a-462e-8def-85b0489a5005.jpg)
- The Arduino Uno is a microcontroller board based on the ATmega328. Arduino is an open-source, prototyping platform and its simplicity makes it ideal for hobbyists to use as 
-well as professionals. The Arduino Uno has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, 
-a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it 
+* The Arduino Uno is a microcontroller board based on the ATmega328.Arduino is an open-source,prototyping platform and its simplicity makes it ideal for hobbyists to use as 
+well as professionals.The Arduino Uno has 14 digital input/output pins(of which 6 can be used as PWM outputs),6 analog inputs,a 16 MHz crystal oscillator,a USB connection, 
+a power jack,an ICSP header,and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it 
 with a AC-to-DC adapter or battery to get started.
 
 # ACTUATORS(MOTORS)
