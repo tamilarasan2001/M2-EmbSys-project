@@ -1,4 +1,5 @@
 #include <Servo.h>
+
 //defining Servos
 Servo servo1;
 int servo = 0;
@@ -9,11 +10,12 @@ Servo servo2;
 int servov = 0; 
 int servovLimitHigh = 150;
 int servovLimitLow = 10;
+
 //Assigning LDRs
-int ldrtopleft = 2; //top left LDR green
-int ldrtopright = 1; //top right LDR yellow
-int ldrbottomleft = 3; // bottom left LDR blue
-int ldrbottomright = 0; // bottom right LDR orange
+int ldrtopleft = 2; //top left LDR 
+int ldrtopright = 1; //top right LDR
+int ldrbottomleft = 3; // bottom left LDR 
+int ldrbottomright = 0; // bottom right LDR 
 
  void setup () 
  {
@@ -33,6 +35,7 @@ void loop()
   int topr = analogRead(ldrtopright);
   int botl = analogRead(ldrbottomleft);
   int botr = analogRead(ldrbottomright);
+ 
   // calculating average
   int averagetop = (topl + topr) / 2; //average of top LDRs
   int averagebottom = (botl + botr) / 2; //average of bottom LDRs
