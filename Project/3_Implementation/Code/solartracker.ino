@@ -33,6 +33,7 @@ void loop()
   int topr = analogRead(ldrtopright);
   int botl = analogRead(ldrbottomleft);
   int botr = analogRead(ldrbottomright);
+ 
   // calculating average
   int averagetop = (topl + topr) / 2; //average of top LDRs
   int averagebottom = (botl + botr) / 2; //average of bottom LDRs
