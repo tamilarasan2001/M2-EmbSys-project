@@ -66,14 +66,6 @@ More seasoned sun based charge controllers utilized a mechanical hand-off to ope
 
 # SWOT Analysis
 ![SWOT Analysis](https://user-images.githubusercontent.com/98837668/155834675-daeed8c1-1630-4ce9-a057-a498de7bc1e4.png)
-
-![pic](https://user-images.githubusercontent.com/98837668/157172804-cdd1ccb3-2ac1-473a-b7ef-eee6fc78cef2.png)
-![pic1](https://user-images.githubusercontent.com/98837668/157172809-3b276bfa-2632-4ce1-8e88-5bbfab8d34a3.png)
-![pic2](https://user-images.githubusercontent.com/98837668/157172812-5a61c043-08c0-464b-bef1-aa63daa460df.png)
-![pic3](https://user-images.githubusercontent.com/98837668/157172813-bd9b05c7-2cb9-4ad5-bc97-aabb01be5948.png)
-![pic4](https://user-images.githubusercontent.com/98837668/157172816-af2a0b03-488c-4e0e-82c2-68b7bae254f0.png)
-
-
 # 4W's and 1'H
 # Who
 This is useful for generating solar energy all over the world
@@ -94,6 +86,13 @@ This is useful for generating solar energy all over the world
 # Limitations of Sun Tracking Solar Panel Circuit
 * Though this system is more useful it has low efficiency in rainy season
 * As they are expensive they required to change from time to time
+* OUTPUT
+![pic](https://user-images.githubusercontent.com/98837668/157172804-cdd1ccb3-2ac1-473a-b7ef-eee6fc78cef2.png)
+![pic1](https://user-images.githubusercontent.com/98837668/157172809-3b276bfa-2632-4ce1-8e88-5bbfab8d34a3.png)
+![pic2](https://user-images.githubusercontent.com/98837668/157172812-5a61c043-08c0-464b-bef1-aa63daa460df.png)
+![pic3](https://user-images.githubusercontent.com/98837668/157172813-bd9b05c7-2cb9-4ad5-bc97-aabb01be5948.png)
+![pic4](https://user-images.githubusercontent.com/98837668/157172816-af2a0b03-488c-4e0e-82c2-68b7bae254f0.png)
+
 
 
 
