@@ -1,5 +1,5 @@
 # SOLAR TRACKING SYSTEM
-[![Codiga Badge](https://api.codiga.io/project/31673/status/svg](https://www.codiga.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
+[![Codiga Badge](https://api.codiga.io/project/31673/status/svg)](https://www.codiga.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
 # Folder Structure
 |Folder|	Description|
 |:---:|:---:|
