@@ -14,5 +14,4 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66f01ae6808c48a4a3c81d4efec35612)](https://www.codacy.com/gh/tamilarasan2001/M2-EmbSys-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tamilarasan2001/M2-EmbSys-project&amp;utm_campaign=Badge_Grade)
 
-
-[![code quality score](https://app.codiga.io/public/user/github/tamilarasan2001)
+https://app.codiga.io/public/user/github/tamilarasan2001
