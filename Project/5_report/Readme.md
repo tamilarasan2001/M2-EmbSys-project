@@ -42,8 +42,6 @@ Light Dependent Resistors (LDRs) which are placed on a common plate with solar p
 of decreasing resistance with increasing incident light intensity, i.e. photoconductivity, the value of resistances of all the LDRs is not always same.
 LDR sends equivalent signal of  resistance value to the Microcontroller which is configured by required programming logic. The values are compared with each 
 other by keeping a particular LDR value as reference.
-![ldr-sensor](https://user-images.githubusercontent.com/98837668/157350982-ca094d8f-5a1e-4dd1-8bea-f985a0a56660.jpg)
-
 # MICRO CONTROLLER
 * Based on the input signals received from the LDRs the microcontroller sends  signals to the servo motors . One servo motor is used for tracking along x-axis and the other is for y-axis tracking.
 # ADRUINO UNO
