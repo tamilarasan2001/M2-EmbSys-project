@@ -7,6 +7,9 @@
 |2_Architecture|	Documents specifying design details|
 |3_Implementation	|All code and documentation|
 |4_Test_plan and output|	Documents with test plans and procedures|
+|5_Report                    |report of project|
+|6_Images and videos | contains images and videos |
+|7_others |references|
 # FEATURES
 * Can be used to power the traffic lights and streetlights
 * Can be used in home to power the home appliances using solar power
